@@ -26,3 +26,5 @@ qr.make_image().save(filename + ".png")
 # 顯示 QR Code 圖片
 img = qr.make_image()
 img.show()
+
+#梅三小路用的修改
